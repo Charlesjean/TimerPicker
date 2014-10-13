@@ -1,0 +1,18 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="time_header_height">91dp</dimen>
+    <dimen name="place_holder_width">1dp</dimen>
+    <dimen name="separator_padding">4dp</dimen>
+    <dimen name="clock_size">270dp</dimen>
+    <dimen name="digital_clock_text_size">48sp</dimen>
+
+    <item name="text_size_multipler" format="float" type="string">0.17</item>
+    <item name="circle_inner_radius_multipler" format="float" type="string">0.8</item>
+    <item name="circle_radius_multipler" format="float" type="string">0.8</item>
+    <item name="text_selection_circle_radius_multipler" format="float" type="string">0.15</item>
+    <item name="am_pm_circle_radius_multipler" format="float" type="string">0.17</item>
+
+
+</resources>
